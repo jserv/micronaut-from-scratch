@@ -11,7 +11,7 @@
         <logback.version>1.2.3</logback.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <exec.mainClass>com.exoscale.syslog.micronaut.Main</exec.mainClass>
-        <graalvm.version>19.0.0</graalvm.version>
+        <graalvm.version>19.1.1</graalvm.version>
         <micronaut.version>1.2.0.RC2</micronaut.version>
         <micronaut-spring.version>1.0.1</micronaut-spring.version>
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
