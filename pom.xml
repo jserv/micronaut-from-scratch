@@ -77,7 +77,6 @@
                         </goals>
                         <configuration>
                             <mainClass>${exec.mainClass}</mainClass>
-                            <buildArgs>--no-server</buildArgs>
                         </configuration>
                     </execution>
                 </executions>
